@@ -12,3 +12,8 @@ if cartoon_name == "Road Runner":
 else:
     print("Interesting")
 
+score = 0
+
+while score < 5:
+    print("Good..Good..Good...Keep firing")
+
