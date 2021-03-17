@@ -21,3 +21,7 @@ print(thisdict)
 
 mylist = ["Ubuntu", "Fedora", "Red Hat", "CentOS", "Debian"]
 print(mylist)
+
+if mylist == "Ubuntu" or "Fedora":
+    print("It is a Linux machine")
+
