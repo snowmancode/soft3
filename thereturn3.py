@@ -18,3 +18,6 @@ print(thisdict)
 
 #Testing Python
 #Taking my time
+
+mylist = ["Ubuntu", "Fedora", "Red Hat", "CentOS", "Debian"]
+print(mylist)
