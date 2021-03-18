@@ -1,6 +1,6 @@
-number = 5
+number = 4
 
 if number == 5:
     print("You got it right")
-else:
+elif number < 5:
     print("Interesting")
