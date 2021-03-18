@@ -19,3 +19,6 @@ print(x)
 
 y = "Bruce Wayne"
 print(y)
+
+print(type(x))
+print(type(y))
