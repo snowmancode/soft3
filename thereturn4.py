@@ -6,3 +6,11 @@ elif number < 5:
     print("Interesting")
 else:
     print("Low number indeed")
+
+#Testing comment knowledge
+
+# Testing
+# Testing
+# Testing
+# Ctrl + /
+
