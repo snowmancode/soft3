@@ -34,3 +34,8 @@ print(MyFirstName)
 #Snake Case
 my_first_name = "John"
 print(my_first_name)
+
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
