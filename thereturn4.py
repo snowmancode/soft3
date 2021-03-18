@@ -14,3 +14,8 @@ else:
 # Testing
 # Ctrl + /
 
+x = 10
+print(x)
+
+y = "Bruce Wayne"
+print(y)
