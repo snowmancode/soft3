@@ -22,3 +22,15 @@ print(y)
 
 print(type(x))
 print(type(y))
+
+#Camel Case
+myFirstName = "John"
+print(myFirstName)
+
+#Pascal Case
+MyFirstName = "John"
+print(MyFirstName)
+
+#Snake Case
+my_first_name = "John"
+print(my_first_name)
